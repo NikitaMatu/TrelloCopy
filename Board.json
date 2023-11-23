@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "name": "TODO",
+      "cards": [
+       {
+        "name": "Уборка",
+        "description": "Прибраться в гостиной",
+        "assignee": [
+            {
+              "userid": "1234",
+              "username": "Nikita",
+              "avatar": ""
+            }
+          ]  
+        "comments": [
+          {
+            "content": "...",
+            "userId": 123,
+            "responses": [],
+            "date": "2023-10-10 12:30:34+03:00"
+          }
+        ]
+       }
+      ]
+    }
+  ]
+}
